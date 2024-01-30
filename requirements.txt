@@ -1,0 +1,6 @@
+Flask~=2.2.5
+tensorflow~=2.4.1
+tensorflow-gpu~=2.4.1
+requests~=2.31.0
+numpy~=1.19.2
+pillow~=10.1.0
